@@ -100,7 +100,6 @@ bootstrap:
           ns-nodes:
               - node-name: src:001:sap
                 description: Data from SAP # HINT
-          ns-nodes:
               - node-name: src:002:opcua
                 description: Data from OPCUA # HINT
         - ns-name: uc
