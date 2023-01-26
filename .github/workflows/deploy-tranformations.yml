@@ -18,7 +18,7 @@ jobs:
             matrix:
                 environment: [prod]
                 include:
-                     - environment: prod
+                    - environment: prod
                       # CDF cluster, like bluefield, greenfield or westeurope-1
                       CDF_CLUSTER: westeurope-1
                       # CDF Project name
